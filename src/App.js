@@ -96,10 +96,9 @@ export default function App() {
             This app is designed to showcase images from the Dixit game to
             promote new ideas of discussion during a coaching session.
           </p>
-          <p>The images were obtained from</p>
-          <p>
-            - Made with love by <a href="https://zephirlorne.com">Zéphir</a> :)
-          </p>
+          <p>The images were obtained <a href="https://www.libellud.com/ressources/dixit/#https://www.libellud.com/wp-content/uploads/2022/03/Banque-images-Odyssey.zip">here</a>.</p>
+          <p> - Made with love by <a href="https://zephirlorne.com">Zéphir</a> :) </p>
+          <p>   <a href="https://github.com/zephirl/TaleWeaver">Source Code</a></p>
         </AboutPopup>
       )}
     </AppContainer>
