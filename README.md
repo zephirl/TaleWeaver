@@ -1,7 +1,7 @@
 # TaleWeaver
 
 [TaleWeaver](TaleWeaver.firezed.ai) is a small web app presenting Dixit cards for sparking new ideas and discussions during coaching sessions or creative brainstorming.
-![](src/images/LandingPage_alpha.png)
+![TaleWeaver webApp](src/images/LandingPage_alpha.png)
 
 ## Features
 
@@ -21,9 +21,10 @@
 
 ### Technologies Used
 
-- React with Styled Components.
-- GPT-4 to help on code generation and debugging.
-- MidJourney to create some of the designs.
+- [React](https://react.dev/learn) with Styled Components.
+- [GPT-4](https://openai.com/research/gpt-4) to help on code generation and debugging.
+- [MidJourney](https://www.midjourney.com) to create some of the designs.
+- [CodeSandbox](https://codesandbox.io) to initially create and host the webapp.
 
 ### Getting Started
 
