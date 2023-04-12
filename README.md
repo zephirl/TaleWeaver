@@ -44,6 +44,6 @@ For more help on React, check [https://react.dev/learn](https://react.dev/learn)
 
 ## Acknowledgements
 
-- Images and inspiration from the Dixit board game, accessible [here](https://www.libellud.com/ressources/dixit/#https://www.libellud.com/wp-content/uploads/2022/03/Banque-images-Odyssey.zip).
+- Images and inspiration from the Dixit board game, accessible [here](https://www.libellud.com/ressources/dixit).
 - [Build Beautiful Apps with GPT-4 and Midjourney](https://designcode.io/gpt4) tutorial by [Meng To](https://twitter.com/@MengTo).
 - Virginie for her ideas.
