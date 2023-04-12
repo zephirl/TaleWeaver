@@ -1,6 +1,6 @@
 # TaleWeaver
 
-TaleWeaver is a small web app presenting Dixit cards for sparking new ideas and discussions during coaching sessions or creative brainstorming.
+[TaleWeaver](TaleWeaver.firezed.ai) is a small web app presenting Dixit cards for sparking new ideas and discussions during coaching sessions or creative brainstorming.
 ![](src/images/LandingPage_alpha.png)
 
 ## Features
